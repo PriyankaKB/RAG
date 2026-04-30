@@ -1,5 +1,7 @@
 # Understanding RAG
 
+![alt text](image-1.png)
+
 ## Prerequisites
 Python 3.9 and above
 
